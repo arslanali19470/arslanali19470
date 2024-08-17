@@ -1,4 +1,4 @@
-#🚀 Arslan Ali
+# 🚀 Arslan Ali
 Junior React Native Developer
 
 As a passionate and skilled React Native developer, I thrive in dynamic environments where I can contribute to building innovative solutions. With over 10 months of hands-on experience, I specialize in React, Firebase, Redux Toolkit, TypeScript, and Tailwind CSS. I am committed to delivering seamless and efficient user experiences across platforms, leveraging my expertise in state management, API integration, and responsive design. Always open to collaboration and learning, I look forward to connecting with like-minded professionals to push the boundaries of technology together.💻
