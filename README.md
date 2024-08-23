@@ -47,11 +47,11 @@ As a passionate and skilled React Native developer, I thrive in dynamic environm
 
  </a>
 
- <a href="https://github.com/arslanali19470"> 
 
-![](https://leetcard.jacoblin.cool/arslanali19470?ext=heatmap)
 
- </a>
+<!--   ![](https://leetcard.jacoblin.cool/arslanali19470?ext=heatmap)   -->
+
+ 
 
 </div>
 <div align="center">
