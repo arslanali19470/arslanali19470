@@ -34,20 +34,21 @@ As a passionate and skilled React Native developer, I thrive in dynamic environm
 <img width ='80px' height='25px' src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white' />
 </p>
 <h2><i>🏆 GitHub Trophies</i></h2>
-![Leetcode Stats](https://leetcard.jacoblin.cool/nolIC6Fp6u?ext=contest)
+
 
 <h2><i>🔮 Leetcode Stats</i></h2>
-![Leetcode Stats](https://leetcard.jacoblin.cool/nolIC6Fp6u?ext=contest)
+
 
 <div align="center">
 
 </div>
-![Leetcode Stats](https://leetcard.jacoblin.cool/nolIC6Fp6u?ext=contest)
+
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <div align="center">
   <a href="https://github.com/arslanali19470">
     <img height="180em" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arslanali19470&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/nolIC6Fp6u?ext=contest)
   <a href="https://github.com/arslanali19470">
     <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arslanali19470&layout=compact&langs_count=8&theme=algolia"/>
   </a>
@@ -56,4 +57,4 @@ As a passionate and skilled React Native developer, I thrive in dynamic environm
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanali19470&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </div>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/nolIC6Fp6u?ext=contest)
+
