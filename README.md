@@ -43,6 +43,11 @@ As a passionate and skilled React Native developer, I thrive in dynamic environm
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/arslanali19470?ext=contest)
 
+![](https://leetcard.jacoblin.cool/arslanali19470?ext=activity)
+
+![](https://leetcard.jacoblin.cool/arslanali19470?ext=contest)
+
+![](https://leetcard.jacoblin.cool/arslanali19470?ext=heatmap)
 
 </div>
 <div align="center">
