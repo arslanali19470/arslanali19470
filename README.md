@@ -34,14 +34,14 @@ As a passionate and skilled React Native developer, I thrive in dynamic environm
 <img width ='80px' height='25px' src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white' />
 </p>
 <h2><i>🏆 GitHub Trophies</i></h2>
-<img width ='80px' height='25px' src='[https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp](https://leetcard.jacoblin.cool/nolIC6Fp6u?ext=contest);logo=figma&amp;logoColor=white' />
+<img width ='80px' height='25px' src='[https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp];logo=figma&amp;logoColor=white' />
 
 
 <h2><i>🔮 Leetcode Stats</i></h2>
 
 <div align="center">
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/nolIC6Fp6u?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/arslanali19470?ext=contest)
 
 
 </div>
