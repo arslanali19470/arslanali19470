@@ -58,5 +58,13 @@ As a passionate and skilled React Native developer, I thrive in dynamic environm
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanali19470&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </div>
 
+<div align="center">
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nolIC6Fp6u?ext=contest)
+
+
+</div>
+
+
+
 
